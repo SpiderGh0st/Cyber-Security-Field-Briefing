@@ -1,8 +1,7 @@
 # Cyber Security — Field Briefing
 
-An interactive, web-based cyber security awareness course rebuilt from the
-original SCORM/Articulate Storyline package — same 11-module curriculum,
-all 10 case-study videos, quiz content and closing interviews, redesigned
+An interactive, web-based cyber security awareness course consists of 11-module curriculum,
+all 10 case-study videos, quiz content and closing interviews, designed
 as a fast, self-contained website.
 
 ## What's inside
